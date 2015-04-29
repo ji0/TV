@@ -11,6 +11,8 @@ public class TV {
 	public void channelDown() {
 		channel--;
 	}
+	
+	//헐 대박
 
 	public void volumeUp() {
 		volume++;
